@@ -117,4 +117,5 @@ const View = ({char}) => {
         </>
     )
 }
+
 export default CharInfo;
